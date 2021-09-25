@@ -6,7 +6,7 @@ const AddCourse=()=>{
         <div>
             <hr/>
             <Card style={{backgroundColor: '#fff0e6'}}>
-                <CardBody>
+            <CardBody>
             <h2 className="text-center"> Fill Course details </h2>
             <Form>
                 <FormGroup>
