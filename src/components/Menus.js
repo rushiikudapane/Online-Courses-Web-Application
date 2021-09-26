@@ -8,8 +8,8 @@ const Menus=()=>{
                 <ListGroupItem color="primary" tag="a" href="/" action>Home</ListGroupItem>
                 <ListGroupItem color="primary" tag="a" href="/all-courses" action>View Courses</ListGroupItem>
                 <ListGroupItem color="primary" tag="a" href="/add-course" action>Add Courses</ListGroupItem>
-                <ListGroupItem color="primary" tag="a" href="/about" action>About</ListGroupItem>
                 <ListGroupItem color="primary" tag="a" href="/contact" action>Contact Us</ListGroupItem>
+                <ListGroupItem color="primary" tag="a" href="/about" action>About</ListGroupItem>
             </ListGroup>
         </div>
     );

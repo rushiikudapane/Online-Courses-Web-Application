@@ -23,7 +23,7 @@ const Course=({course})=>{
                 <CardText> {course.description} </CardText>
                 <Container className="text-center">
                     <Button color="danger mr-3" onClick= {OnDelete} >Delete</Button>&nbsp;
-                    <Button color="primary ml-3" onClick={OnUpdate}>Enroll Now</Button>
+                    <Button color="primary ml-3" onClick={OnUpdate}>Enroll now</Button>
                     <br/><br/>
                 </Container>
                 </Row>

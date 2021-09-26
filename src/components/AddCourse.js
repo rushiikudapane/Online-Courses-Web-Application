@@ -28,7 +28,7 @@ const AddCourse=()=>{
                     <Input type="text" name="name" placeholder="Enter your name" id="name"/>
                 </FormGroup><br/>
                 <Container className="text-center">
-                    <Button color="success">Add Course:</Button>&nbsp;
+                    <Button color="success">Add Course</Button>&nbsp;
                     <Button color="warning"> Clear</Button>
                 </Container>
             </Form>

@@ -6,7 +6,7 @@ const AllCourses=()=>{
         const [courses, setCourses]=useState([
             {title:"Java Course", description:"This is complete Java course for beginner"},
             {title:"Django Course", description:"This is complete course on Python Django framework"},
-            {title:"ML with Python", description:"Learn ML using Pyhton in just 3 hrs"},
+            {title:"ML (Python)", description:"Learn ML using Pyhton in just 3 hrs"},
             {title:"Java Course", description:"Learn Java with me for free"},
             {title:"C/C++", description:"Basics to Advance-3 week course"},
             {title:"React.js", description:"Learn Web App Development"}

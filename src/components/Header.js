@@ -14,7 +14,7 @@ function Header(){
                 <Card className="text-center my-2" style={{backgroundColor: '#ccebff'}}>
                 <CardBody>
                 <h1 className="display-3" >Online Courses Application</h1>
-                <p className="display-9 my-1">A practice project made by Rushiraj Kudapane</p>
+                <p className="display-9 my-1">A practice project made by Rushiraj</p>
                 </CardBody>
                 <Button color="primary" onClick={OnButton} size="sm" style={{float: 'right'}}> Info</Button><p></p>
                 

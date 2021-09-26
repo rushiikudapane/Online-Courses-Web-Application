@@ -16,7 +16,7 @@ function Nav(){
             <Jumbotron className="text-center">
             <ToastContainer/>
             <br/>
-            <Button size="sm" color="danger" outline block onClick={btnHandle} style={{float:"left"}}>SignUp</Button>&nbsp;
+            <Button size="sm" color="danger" outline block onClick={btnHandle} style={{float:"left"}}>SignUp</Button>;
             <Button size="sm" color="primary" outline block onClick={btnHandle} style={{float:"right"}}>Contact</Button>
             </Jumbotron>
             </CardBody>

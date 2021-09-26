@@ -20,7 +20,7 @@ const About=()=>{
                 You should constantly upgrade your knowledge and traits all the way 
                through your career.
                 It will assist you to stay up-to-date on important tendencies, earn a higher income, 
-               and it will support you stay in business. Students can look for the presence of dynamic skills in coaches
+               and it will support you stay in business. students can look for the presence of dynamic skills in coaches
                 and must resort to such professionals to reap the rewards considerably.
             </p>
             <hr/>

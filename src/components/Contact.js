@@ -13,7 +13,7 @@ const Contact=()=>{
             Mobile no.: 7744850616<br/>
             Admin.: 7040663309<br/>
             Mail Id: kudapanerushi13@gmail.com<br/>
-            Office Address: Plot no.123, Bavdhan Khurd, Pune-41.<br/>
+            Office Address: Plot no.123, Pune-21.<br/>
             </p>
             <hr/>
             </CardBody>
