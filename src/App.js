@@ -22,8 +22,7 @@ function App() {
     <Container>
       
       <Header/><br/>
-      <Button color="success" size="sm" style={{float:"left"}} outline>Login</Button
-      >&nbsp;<Button color="danger" className="ml-3" size="sm" style={{float:"left"}} outline>SignUp</Button><br/><hr/>
+      <Button color="success" size="sm" style={{float:"left"}} outline>Login</Button>&nbsp;<Button color="danger" className="ml-3" size="sm" style={{float:"left"}} outline>SignUp</Button><br/><hr/>
       <br/>
       <Row>
         <Col md={4}>
